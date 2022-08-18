@@ -1,0 +1,8 @@
+Facebook color: #4267B2
+Instagram color: #F56040
+YouTube color: #FF0000
+Twitter color: #1DA1F2
+TikTok color: #000000
+Telegram color: #2AABEE
+
+box-shadow color #00000080
